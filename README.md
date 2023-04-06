@@ -2,7 +2,7 @@
 ShopHunt is a comprehensive mobile app that allows customers to easily compare prices and availability of items at multiple stores, while helping shopkeepers to easily update and promote their inventory. With ShopHunt, customers can save time and make informed purchasing decisions, while shopkeepers can keep track of their inventory and sales, making it easier for them to manage their business. Powered by advanced technology and user-friendly features, ShopHunt is the ultimate shopping platform for the modern era
 
 
-#OUTPUT
+# OUTPUT
 
 
 <img src="https://user-images.githubusercontent.com/99597805/230443752-6130d6fd-1477-45e0-8258-efd53c1bbe8e.png" width="200" style="margin-right: 20px;"> <img src="https://user-images.githubusercontent.com/99597805/230443792-76119485-4754-4884-9862-e7e0cd203b1b.png" width="200">
