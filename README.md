@@ -1,4 +1,4 @@
-# ShopHunt(React-native)
+# ShopHunt(React-native | Firebase)
 ShopHunt is a comprehensive mobile app that allows customers to easily compare prices and availability of items at multiple stores, while helping shopkeepers to easily update and promote their inventory. With ShopHunt, customers can save time and make informed purchasing decisions, while shopkeepers can keep track of their inventory and sales, making it easier for them to manage their business. Powered by advanced technology and user-friendly features, ShopHunt is the ultimate shopping platform for the modern era
 
 
